@@ -11,6 +11,7 @@ function SpeakingSection({ children, ...props }) {
     </Section>
   )
 }
+// c
 
 function Appearance({ title, description, event, cta, href }) {
   return (
